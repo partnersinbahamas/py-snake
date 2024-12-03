@@ -1,1 +1,1 @@
-![py-snake-game](https://file%252B.vscode-resource.vscode-cdn.net/Users/db7/mp/Python/py-snake/images/py-snake-img.webp?version%253D1733251942726)
+# Python Snake Game
