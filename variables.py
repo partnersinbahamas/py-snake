@@ -1,0 +1,15 @@
+import named
+
+# variables
+WINDOW_HEIGHT = 840
+WINDOW_WIDTH = 800
+WINDOW_MODE = named.Mode(WINDOW_WIDTH, WINDOW_HEIGHT)
+
+BLOCK_SIZE = 20
+
+KEY_MAP = {
+    1073741906: "Up",
+    1073741905: "Down",
+    1073741903: "Right",
+    1073741904: "Left"
+}
